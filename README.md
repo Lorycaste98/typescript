@@ -34,12 +34,12 @@ For the second you need to follow these steps:
 
 ### My skills for this project
 
-- ![My Skill](https://skillicons.dev/icons?i=html)
-- ![My Skill](https://skillicons.dev/icons?i=css)
-- ![My Skill](https://skillicons.dev/icons?i=js)
-- ![My Skill](https://skillicons.dev/icons?i=ts)
-- ![My Skill](https://skillicons.dev/icons?i=nodejs)
-- ![My Skill](https://skillicons.dev/icons?i=git)
+![My Skill](https://skillicons.dev/icons?i=html)
+![My Skill](https://skillicons.dev/icons?i=css)
+![My Skill](https://skillicons.dev/icons?i=js)
+![My Skill](https://skillicons.dev/icons?i=ts)
+![My Skill](https://skillicons.dev/icons?i=nodejs)
+![My Skill](https://skillicons.dev/icons?i=git)
 
 ## License
 
