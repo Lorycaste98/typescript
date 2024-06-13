@@ -1,4 +1,4 @@
-# VegetaFlavors
+# MOOVE - TYPESCRIP
 
 ## The Project
 
