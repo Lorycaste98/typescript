@@ -20,11 +20,11 @@ For the second you need to follow these steps:
 
 2. Open the terminal and install the dependencies with the command:
 
-   npm install or npm i
+   **npm install or npm i**
 
 3. Run the command:
 
-   npm run build
+   **npm run build**
 
 4. Open the index.html file in the 'dist' folder, start Live Server, and check the console.
 
