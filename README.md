@@ -1,15 +1,28 @@
-# VegetaFlavors
+# MOOVE - TYPESCRIPT
 
 ## The Project
 
 This application is one of the projects for the Master in Full Stack Development for [start2impact](https://www.start2impact.it/) UNIVERSITY.
 
-Link application : <a href="https://vegetaflavors.netlify.app/" target="_blank">VegetaFlavors</a>
+Link to see the code : <a href="https://codepen.io/Lorycaste98/pen/RwmjVNw?editors=1111" target="_blank">MOOVE</a>
 
 ### The assignment:
 
-Create a vegetarian recipe app with a search bar and simple UI and UX easy to use.
+Define interfaces and classes that represent the various components of a shared mobility system. 
+These represent vehicles, users, and cities.
 
+### How to install and run the code:
+
+There are two methods to see the code. The first is to look at the pencode on pencode at this <a href="https://codepen.io/Lorycaste98/pen/RwmjVNw?editors=1111" target="_blank">link</a>. 
+For the second you need to follow these steps:
+
+1. In the github <a href="https://github.com/Lorycaste98/typescript" target="_blank">repo</a> a make the download ZIP and open it in your code editor.
+2. Open the terminal and install the dependencies with the command:
+   npm install or npm i
+3. Open the index.html file in the 'dist' folder, start Live Server, and check the console.
+   You should find the various instances.
+   **(In this case I have already done the build so you will already find the .js files in the dist folder. In other cases you will have to do the build first with the tsc command)**
+   
 ## Application Development
 
 ### My skills for this project
