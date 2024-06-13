@@ -1,4 +1,4 @@
-# MOOVE - TYPESCRIP
+# MOOVE - TYPESCRIPT
 
 ## The Project
 
